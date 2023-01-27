@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Base64Project</string>
+    <string name="title_activity_image_base64_component">ImageBase64Component</string>
+</resources>
